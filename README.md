@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/luisafalquetoz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisafalquetoz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisafalquetoz&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisafalquetoz&theme=shadow_blue&show_icons=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisafalquetoz&layout=compact&langs_count=6&theme=shadow_blue"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -16,8 +16,8 @@
  
 ### Para entrar em contato, me segue nas redes abaixo!
  
-<div> 
-  <a href="https://instagram.com/luisafalqueto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisa-falqueto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luisafzandonade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="display: inline_block"><br>
+  <a href="https://instagram.com/luisafalqueto" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" align="left" alt="icone do instagram" width="30px" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luisa-falqueto/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" alt="icone do linkedin" width="30px" target="_blank"></a>
+  <a href = "mailto:luisafzandonade@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" align="left" alt="icone do gmail" width="30px" target="_blank"></a>
 </div>
