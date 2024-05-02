@@ -53,7 +53,11 @@
 
 <br> 
 
-<img src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
-![Snake animation](https://github.com/luisafalquetoz/luisafalquetoz/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=luisafalquetoz&repo=luisafalquetoz&theme=react)](https://github.com/luisafalquetoz/luisafalquetoz)
+<themed-picture data-catalyst-inline="true" data-catalyst>
+ <picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;"/>
+ </picture>
+<themed-picture />
 
