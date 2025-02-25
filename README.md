@@ -15,13 +15,13 @@
  <div style="display: inline_block"> 
   <h3>Linguagens e Tecnologias</h3>
   <a href="https://skillicons.dev" rel="nofollow">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py" />
   </a>
  </div>
   <div style="display: inline_block"> 
   <h3>Frameworks and Libs</h3>
   <a href="https://skillicons.dev" rel="nofollow">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vite,mongodb,postgres" />
   </a>
  </div>
  <div style="display: inline_block"> 
