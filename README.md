@@ -21,13 +21,13 @@
   <div style="display: inline_block"> 
   <h3>Frameworks and Libs</h3>
   <a href="https://skillicons.dev" rel="nofollow">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vite,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express," />
   </a>
  </div>
  <div style="display: inline_block"> 
   <h3>Ferramentas</h3>
   <a href="https://skillicons.dev" rel="nofollow">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,npm,yarn" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,prisma,mongodb,postgres,vite,figma,npm,yarn" />
   </a>
  </div>
  
